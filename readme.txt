@@ -4,3 +4,4 @@ hello world
 
 
 Nothing changed.
+Git has a mutable index called stage
